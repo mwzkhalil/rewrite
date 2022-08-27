@@ -1,0 +1,8 @@
+docx2txt
+Flask
+nltk
+PyPDF2
+sentence_splitter
+torch
+transformers
+Werkzeug
