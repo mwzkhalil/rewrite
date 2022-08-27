@@ -6,3 +6,4 @@ sentence_splitter
 torch
 transformers
 Werkzeug
+sentencepiece
